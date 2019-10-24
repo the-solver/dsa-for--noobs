@@ -1,6 +1,6 @@
 We are not gonna talk about primitive data structures like int,bool,float,byte etc..
 
-1.>>> ARRAY---  most basic and important data structures ,it is in-built in any modern languages ,helps in storing and retreiving
+1.>>> ARRAY---  most basic and important data structures ,it is in-built in any modern languages ,it helps in storing and retreiving
                 the data in O(1) of time due to contiguous allocation of memory in arrays.
 
 
