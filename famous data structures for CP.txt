@@ -1,6 +1,6 @@
 We are not gonna talk about primitive data structures like int,bool,float,byte etc..
 
-1.>>> ARRAY---  most basic and important data structures ,it is in-built in any modern languages ,helps in storing and retreiving
+1.>>> ARRAY---  most basic and important data structures ,it is in-built in any modern languages ,it helps in storing and retreiving
                 the data in O(1) of time due to contiguous allocation of memory in arrays.
 
 
@@ -9,4 +9,4 @@ We are not gonna talk about primitive data structures like int,bool,float,byte e
 
 3.>>>  STACKS---    same structure as array or lists but follows lifo or filo principle and can be implemented using array or
                     linked lists.
-4.>> QUEUE---   queues are very similar to stacks .... inly difference is they follow fifo operation and not lifo as compared                   to stacks.
+4.>> QUEUE---   queues are very similar to stacks .... only difference is they follow fifo operation and not lifo as compared                   to stacks.
